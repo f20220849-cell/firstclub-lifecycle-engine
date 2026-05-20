@@ -1,0 +1,201 @@
+customer_id,acquisition_date,total_orders,total_spend,preferred_categories,last_order_date,segment_true
+FC1000,2025-07-25,4,3900.0,"Bakery, Eggs, Packaged Snacks",2026-05-07,forming
+FC1001,2025-08-11,5,5799.0,"Bakery, Vegetables",2026-02-28,churned
+FC1002,2025-06-19,1,1781.0,"Bakery, Cold Pressed Oils, Eggs",2026-05-18,new
+FC1003,2025-11-15,2,2114.0,"Fruits, Cold Pressed Oils, Eggs",2026-02-19,churned
+FC1004,2025-08-25,1,970.0,Eggs,2026-05-18,new
+FC1005,2025-06-11,1,920.0,"Bakery, Nutrition",2026-05-19,new
+FC1006,2025-11-27,9,9738.0,Packaged Snacks,2026-05-13,habitual
+FC1007,2025-08-21,15,18807.0,"Vegetables, Dairy, Cold Pressed Oils",2026-05-16,habitual
+FC1008,2025-07-11,4,5544.0,Dairy,2026-05-16,forming
+FC1009,2025-07-12,17,20371.0,"Packaged Snacks, Beverages",2026-05-14,habitual
+FC1010,2025-08-17,5,4807.0,"Vegetables, Nutrition",2026-04-30,drifting
+FC1011,2025-09-18,2,2304.0,"Vegetables, Beverages, Cold Pressed Oils",2026-02-22,churned
+FC1012,2025-06-22,1,1642.0,Packaged Snacks,2026-05-19,new
+FC1013,2025-06-14,3,3551.0,"Nutrition, Eggs",2026-05-16,forming
+FC1014,2025-09-05,5,4516.0,"Beverages, Staples",2026-05-03,drifting
+FC1015,2025-07-14,9,10409.0,Cold Pressed Oils,2026-05-07,drifting
+FC1016,2025-07-31,22,27196.0,"Nutrition, Eggs",2026-05-18,habitual
+FC1017,2025-09-09,8,8834.0,"Beverages, Bakery, Cold Pressed Oils",2026-05-03,drifting
+FC1018,2025-08-10,20,23184.0,"Vegetables, Cold Pressed Oils",2026-05-16,habitual
+FC1019,2025-10-06,18,20676.0,"Vegetables, Beverages",2026-05-18,habitual
+FC1020,2025-11-16,10,9069.0,Packaged Snacks,2026-05-02,drifting
+FC1021,2025-09-04,21,22981.0,"Dairy, Cold Pressed Oils, Packaged Snacks",2026-05-15,habitual
+FC1022,2025-06-27,9,11702.0,"Vegetables, Bakery, Fruits",2026-05-13,habitual
+FC1023,2025-07-27,1,802.0,Bakery,2026-05-14,new
+FC1024,2025-10-25,2,2107.0,"Packaged Snacks, Beverages",2026-03-27,churned
+FC1025,2025-10-23,5,5990.0,"Staples, Packaged Snacks, Eggs",2026-05-08,drifting
+FC1026,2025-10-03,15,18349.0,"Staples, Dairy, Nutrition",2026-05-14,habitual
+FC1027,2025-10-13,1,1588.0,"Fruits, Dairy, Bakery",2026-05-17,new
+FC1028,2025-10-08,15,20326.0,"Vegetables, Fruits",2026-05-17,habitual
+FC1029,2025-06-27,2,1514.0,"Nutrition, Vegetables, Eggs",2026-03-01,churned
+FC1030,2025-08-05,16,21423.0,"Bakery, Beverages, Eggs",2026-05-16,habitual
+FC1031,2025-10-17,1,665.0,Staples,2026-05-13,new
+FC1032,2025-08-04,22,25827.0,Nutrition,2026-05-13,habitual
+FC1033,2025-10-12,13,15451.0,"Packaged Snacks, Dairy, Vegetables",2026-05-16,habitual
+FC1034,2025-08-03,4,4197.0,"Staples, Dairy, Vegetables",2026-05-07,drifting
+FC1035,2025-07-31,2,2229.0,"Packaged Snacks, Nutrition, Bakery",2026-05-06,forming
+FC1036,2025-08-05,2,2270.0,"Fruits, Packaged Snacks",2026-05-12,forming
+FC1037,2025-09-10,6,7513.0,"Beverages, Staples",2026-03-18,churned
+FC1038,2025-10-31,25,29005.0,Fruits,2026-05-17,habitual
+FC1039,2025-11-15,3,3013.0,Eggs,2026-03-29,churned
+FC1040,2025-10-12,6,6296.0,"Cold Pressed Oils, Beverages",2026-03-05,churned
+FC1041,2025-07-18,4,3872.0,Nutrition,2026-05-13,forming
+FC1042,2025-09-21,22,24112.0,"Eggs, Nutrition",2026-05-18,habitual
+FC1043,2025-07-14,8,10279.0,"Staples, Dairy",2026-05-07,drifting
+FC1044,2025-09-17,5,4799.0,"Beverages, Packaged Snacks, Staples",2026-05-06,drifting
+FC1045,2025-11-27,13,14302.0,Beverages,2026-05-13,habitual
+FC1046,2025-11-18,1,1442.0,"Beverages, Cold Pressed Oils, Dairy",2026-05-17,new
+FC1047,2025-07-04,1,1314.0,Dairy,2026-05-20,new
+FC1048,2025-11-05,2,1537.0,Vegetables,2026-05-11,forming
+FC1049,2025-07-16,1,1269.0,Nutrition,2026-05-16,new
+FC1050,2025-07-20,1,942.0,Cold Pressed Oils,2026-05-19,new
+FC1051,2025-09-20,2,2542.0,"Staples, Beverages",2026-05-16,forming
+FC1052,2025-07-08,1,1150.0,Nutrition,2026-05-13,new
+FC1053,2025-07-14,8,9474.0,"Bakery, Eggs",2026-05-06,drifting
+FC1054,2025-10-13,25,28963.0,Beverages,2026-05-14,habitual
+FC1055,2025-11-25,19,21962.0,"Vegetables, Dairy, Nutrition",2026-05-18,habitual
+FC1056,2025-09-03,10,12076.0,"Fruits, Nutrition",2026-04-27,drifting
+FC1057,2025-10-21,4,3767.0,Fruits,2026-02-20,churned
+FC1058,2025-09-29,21,23386.0,"Dairy, Beverages",2026-05-19,habitual
+FC1059,2025-08-08,4,5455.0,"Packaged Snacks, Staples",2026-05-07,forming
+FC1060,2025-07-23,1,975.0,"Nutrition, Beverages, Staples",2026-05-14,new
+FC1061,2025-08-27,25,28856.0,"Dairy, Fruits, Cold Pressed Oils",2026-05-15,habitual
+FC1062,2025-11-08,7,8297.0,"Vegetables, Fruits, Beverages",2026-04-26,drifting
+FC1063,2025-10-23,5,7113.0,"Nutrition, Eggs",2026-03-30,churned
+FC1064,2025-11-07,5,5915.0,"Vegetables, Nutrition",2026-05-06,drifting
+FC1065,2025-08-31,4,4929.0,Eggs,2026-05-09,forming
+FC1066,2025-07-03,1,628.0,"Fruits, Beverages",2026-05-15,new
+FC1067,2025-06-09,18,20617.0,Dairy,2026-05-15,habitual
+FC1068,2025-07-06,14,17366.0,"Beverages, Eggs",2026-05-18,habitual
+FC1069,2025-06-02,4,5558.0,"Nutrition, Cold Pressed Oils",2026-02-20,churned
+FC1070,2025-09-30,8,10845.0,"Vegetables, Packaged Snacks, Eggs",2026-05-05,drifting
+FC1071,2025-11-21,5,6872.0,"Staples, Packaged Snacks",2026-04-16,churned
+FC1072,2025-10-25,4,4940.0,"Eggs, Vegetables",2026-05-15,forming
+FC1073,2025-08-30,4,4937.0,"Cold Pressed Oils, Nutrition, Bakery",2026-05-16,forming
+FC1074,2025-07-02,9,9816.0,Cold Pressed Oils,2026-05-04,drifting
+FC1075,2025-09-20,14,16195.0,Staples,2026-05-19,habitual
+FC1076,2025-10-20,1,1195.0,Beverages,2026-05-17,new
+FC1077,2025-09-26,2,1504.0,Dairy,2026-05-08,forming
+FC1078,2025-06-04,10,10765.0,"Fruits, Dairy, Bakery",2026-05-17,habitual
+FC1079,2025-08-26,2,1593.0,"Fruits, Eggs",2026-04-11,churned
+FC1080,2025-09-09,4,5080.0,Cold Pressed Oils,2026-05-16,forming
+FC1081,2025-06-10,1,648.0,"Dairy, Nutrition",2026-05-13,new
+FC1082,2025-11-22,1,794.0,"Bakery, Nutrition",2026-05-19,new
+FC1083,2025-08-11,4,3892.0,"Staples, Nutrition, Vegetables",2026-05-06,drifting
+FC1084,2025-09-29,6,6740.0,Bakery,2026-04-29,drifting
+FC1085,2025-07-02,21,25168.0,"Beverages, Nutrition, Packaged Snacks",2026-05-17,habitual
+FC1086,2025-07-06,21,25343.0,Staples,2026-05-18,habitual
+FC1087,2025-10-11,4,4745.0,"Fruits, Vegetables",2026-05-04,drifting
+FC1088,2025-11-22,1,1437.0,"Nutrition, Vegetables",2026-05-14,new
+FC1089,2025-06-28,3,2427.0,"Packaged Snacks, Nutrition",2026-04-19,churned
+FC1090,2025-06-28,2,1516.0,"Beverages, Staples",2026-05-06,forming
+FC1091,2025-07-12,2,2308.0,"Cold Pressed Oils, Bakery",2026-05-08,forming
+FC1092,2025-09-05,4,5629.0,Nutrition,2026-05-06,drifting
+FC1093,2025-11-01,1,1179.0,"Nutrition, Vegetables, Beverages",2026-05-18,new
+FC1094,2025-09-08,9,12072.0,"Dairy, Packaged Snacks",2026-05-02,drifting
+FC1095,2025-07-31,3,4114.0,Fruits,2026-05-07,forming
+FC1096,2025-10-08,9,10638.0,"Nutrition, Staples",2026-05-15,habitual
+FC1097,2025-08-30,5,7126.0,"Packaged Snacks, Beverages",2026-04-02,churned
+FC1098,2025-10-25,1,1478.0,"Beverages, Cold Pressed Oils",2026-05-18,new
+FC1099,2025-06-30,10,11799.0,"Vegetables, Bakery",2026-05-17,habitual
+FC1100,2025-07-04,2,2106.0,"Eggs, Vegetables, Cold Pressed Oils",2026-03-19,churned
+FC1101,2025-10-02,15,17436.0,"Cold Pressed Oils, Nutrition",2026-05-16,habitual
+FC1102,2025-07-01,9,10011.0,Beverages,2026-05-17,habitual
+FC1103,2025-08-02,5,5321.0,"Staples, Nutrition",2026-03-08,churned
+FC1104,2025-08-23,4,4275.0,"Packaged Snacks, Nutrition",2026-05-16,forming
+FC1105,2025-11-10,3,3192.0,Nutrition,2026-05-09,forming
+FC1106,2025-06-10,4,5112.0,"Packaged Snacks, Bakery, Dairy",2026-04-30,drifting
+FC1107,2025-11-02,1,990.0,"Dairy, Eggs",2026-05-16,new
+FC1108,2025-06-17,6,7504.0,"Eggs, Beverages, Packaged Snacks",2026-03-30,churned
+FC1109,2025-06-26,7,9850.0,"Nutrition, Packaged Snacks",2026-05-02,drifting
+FC1110,2025-09-22,6,7957.0,"Beverages, Eggs",2026-04-03,churned
+FC1111,2025-10-16,1,710.0,Fruits,2026-05-13,new
+FC1112,2025-07-19,9,9728.0,"Vegetables, Dairy, Eggs",2026-05-18,habitual
+FC1113,2025-11-03,9,11405.0,"Packaged Snacks, Fruits, Vegetables",2026-05-14,habitual
+FC1114,2025-07-24,9,10891.0,Beverages,2026-04-29,drifting
+FC1115,2025-08-08,7,7847.0,Staples,2026-05-03,drifting
+FC1116,2025-08-11,6,8203.0,Packaged Snacks,2026-05-02,drifting
+FC1117,2025-06-22,9,10197.0,Vegetables,2026-04-26,drifting
+FC1118,2025-10-20,1,1750.0,"Bakery, Packaged Snacks, Dairy",2026-05-14,new
+FC1119,2025-07-05,12,14564.0,"Bakery, Cold Pressed Oils",2026-05-19,habitual
+FC1120,2025-11-04,3,3002.0,"Eggs, Beverages",2026-05-07,forming
+FC1121,2025-07-23,2,1721.0,"Bakery, Fruits",2026-05-11,forming
+FC1122,2025-07-19,20,25543.0,"Eggs, Fruits",2026-05-19,habitual
+FC1123,2025-11-07,2,2076.0,Nutrition,2026-05-13,forming
+FC1124,2025-06-17,10,11856.0,Nutrition,2026-05-05,drifting
+FC1125,2025-10-19,1,1100.0,"Bakery, Nutrition",2026-05-13,new
+FC1126,2025-06-04,4,4963.0,"Dairy, Staples",2026-05-13,forming
+FC1127,2025-08-23,4,4406.0,"Nutrition, Beverages",2026-05-15,forming
+FC1128,2025-06-09,24,31709.0,"Eggs, Staples, Fruits",2026-05-19,habitual
+FC1129,2025-09-22,2,1695.0,Cold Pressed Oils,2026-05-10,forming
+FC1130,2025-07-28,2,2249.0,"Nutrition, Beverages",2026-05-06,forming
+FC1131,2025-08-02,8,8538.0,Vegetables,2026-05-18,habitual
+FC1132,2025-08-25,4,4326.0,"Packaged Snacks, Eggs, Cold Pressed Oils",2026-05-11,forming
+FC1133,2025-07-03,1,1301.0,Packaged Snacks,2026-05-17,new
+FC1134,2025-07-27,3,3280.0,Packaged Snacks,2026-03-17,churned
+FC1135,2025-08-09,7,8447.0,Beverages,2026-04-26,drifting
+FC1136,2025-09-03,15,17081.0,"Dairy, Nutrition, Cold Pressed Oils",2026-05-13,habitual
+FC1137,2025-09-14,4,5213.0,"Packaged Snacks, Nutrition, Staples",2026-04-15,churned
+FC1138,2025-06-22,4,3395.0,Nutrition,2026-04-25,drifting
+FC1139,2025-06-13,3,4413.0,Eggs,2026-05-15,forming
+FC1140,2025-10-14,9,11191.0,"Nutrition, Bakery, Packaged Snacks",2026-05-16,habitual
+FC1141,2025-09-08,10,12804.0,"Vegetables, Cold Pressed Oils",2026-04-26,drifting
+FC1142,2025-07-31,14,19630.0,Packaged Snacks,2026-05-15,habitual
+FC1143,2025-09-24,8,9791.0,"Dairy, Fruits, Vegetables",2026-05-14,habitual
+FC1144,2025-06-08,2,2432.0,Staples,2026-05-06,forming
+FC1145,2025-06-30,2,2525.0,"Eggs, Nutrition, Cold Pressed Oils",2026-05-16,forming
+FC1146,2025-06-23,8,9787.0,"Cold Pressed Oils, Eggs",2026-05-06,drifting
+FC1147,2025-08-15,10,11153.0,Fruits,2026-05-16,habitual
+FC1148,2025-06-11,2,2711.0,"Fruits, Staples",2026-05-10,forming
+FC1149,2025-08-31,24,29811.0,Packaged Snacks,2026-05-15,habitual
+FC1150,2025-08-29,7,9981.0,"Dairy, Vegetables",2026-04-28,drifting
+FC1151,2025-11-22,1,901.0,"Bakery, Staples, Fruits",2026-05-16,new
+FC1152,2025-10-13,14,16272.0,"Beverages, Packaged Snacks",2026-05-18,habitual
+FC1153,2025-07-15,2,2119.0,"Cold Pressed Oils, Vegetables, Dairy",2026-05-16,forming
+FC1154,2025-08-08,2,2861.0,"Dairy, Packaged Snacks",2026-05-08,forming
+FC1155,2025-07-18,2,2612.0,Staples,2026-05-15,forming
+FC1156,2025-08-08,22,28240.0,"Vegetables, Beverages",2026-05-14,habitual
+FC1157,2025-11-19,3,3214.0,Nutrition,2026-05-15,forming
+FC1158,2025-07-15,6,8808.0,Eggs,2026-03-13,churned
+FC1159,2025-06-22,6,6809.0,"Fruits, Cold Pressed Oils",2026-03-11,churned
+FC1160,2025-06-03,3,3484.0,Cold Pressed Oils,2026-05-16,forming
+FC1161,2025-06-28,5,6533.0,Bakery,2026-03-05,churned
+FC1162,2025-10-08,10,11661.0,"Nutrition, Eggs",2026-05-17,habitual
+FC1163,2025-09-13,4,5041.0,"Dairy, Packaged Snacks",2026-05-06,drifting
+FC1164,2025-10-04,3,3889.0,"Nutrition, Vegetables, Beverages",2026-05-11,forming
+FC1165,2025-06-18,4,5780.0,"Staples, Dairy",2026-04-04,churned
+FC1166,2025-11-01,16,19897.0,"Packaged Snacks, Eggs, Dairy",2026-05-18,habitual
+FC1167,2025-08-11,10,11294.0,Fruits,2026-05-16,habitual
+FC1168,2025-08-25,3,3469.0,Beverages,2026-05-13,forming
+FC1169,2025-06-01,5,6054.0,Dairy,2026-05-01,drifting
+FC1170,2025-11-08,1,671.0,"Vegetables, Bakery, Staples",2026-05-18,new
+FC1171,2025-10-03,20,25198.0,"Nutrition, Fruits, Cold Pressed Oils",2026-05-15,habitual
+FC1172,2025-07-22,1,1215.0,Packaged Snacks,2026-05-13,new
+FC1173,2025-09-09,4,5075.0,"Staples, Fruits",2026-03-14,churned
+FC1174,2025-08-01,7,6780.0,Eggs,2026-05-06,drifting
+FC1175,2025-07-21,21,21569.0,Dairy,2026-05-13,habitual
+FC1176,2025-11-02,6,6613.0,Packaged Snacks,2026-05-04,drifting
+FC1177,2025-10-14,5,4886.0,Beverages,2026-03-08,churned
+FC1178,2025-06-12,10,12182.0,"Staples, Eggs",2026-04-30,drifting
+FC1179,2025-06-18,1,694.0,"Vegetables, Packaged Snacks, Beverages",2026-05-15,new
+FC1180,2025-07-15,25,31072.0,Nutrition,2026-05-13,habitual
+FC1181,2025-08-03,11,12406.0,"Cold Pressed Oils, Eggs",2026-05-19,habitual
+FC1182,2025-09-30,19,20388.0,"Vegetables, Cold Pressed Oils",2026-05-16,habitual
+FC1183,2025-09-21,19,24642.0,Cold Pressed Oils,2026-05-13,habitual
+FC1184,2025-07-23,24,29308.0,"Beverages, Nutrition, Staples",2026-05-18,habitual
+FC1185,2025-08-01,1,1459.0,"Packaged Snacks, Nutrition",2026-05-20,new
+FC1186,2025-06-25,5,5447.0,Cold Pressed Oils,2026-05-04,drifting
+FC1187,2025-06-08,8,10131.0,"Eggs, Cold Pressed Oils, Staples",2026-05-16,habitual
+FC1188,2025-09-27,10,11686.0,Fruits,2026-04-28,drifting
+FC1189,2025-10-10,5,5986.0,Nutrition,2026-02-26,churned
+FC1190,2025-08-14,8,9334.0,"Vegetables, Bakery, Fruits",2026-05-17,habitual
+FC1191,2025-11-28,2,2309.0,"Dairy, Packaged Snacks",2026-04-10,churned
+FC1192,2025-11-25,12,15006.0,Staples,2026-05-18,habitual
+FC1193,2025-06-06,25,30402.0,Fruits,2026-05-19,habitual
+FC1194,2025-06-18,2,2130.0,"Staples, Nutrition",2026-05-09,forming
+FC1195,2025-10-06,3,4184.0,Bakery,2026-05-12,forming
+FC1196,2025-11-02,6,7518.0,Fruits,2026-03-02,churned
+FC1197,2025-11-12,24,28640.0,"Vegetables, Fruits",2026-05-16,habitual
+FC1198,2025-06-18,17,19675.0,"Bakery, Fruits",2026-05-14,habitual
+FC1199,2025-07-28,7,8274.0,"Beverages, Fruits, Nutrition",2026-05-04,drifting
